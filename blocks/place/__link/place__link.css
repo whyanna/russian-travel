@@ -5,6 +5,7 @@
   font-weight: 400;
   color: #FFFFFF;
   transition: opacity .1s ease-in-out;
+  
 }
 
 .place__link:hover {
