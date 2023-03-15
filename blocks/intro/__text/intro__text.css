@@ -6,7 +6,7 @@
   font-style: normal;
   font-size: 16px;
   line-height: 1.63;
-  max-width: 720px;
+  max-width: 690px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -15,8 +15,16 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .intro__text {
+    max-width: 720px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .intro__text {
     margin-bottom: 34px;
   }
 }
+
+/* thx <3 */
